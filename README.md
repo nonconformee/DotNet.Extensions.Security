@@ -1,2 +1,3 @@
 # DotNet.Extensions.Security
-Little security extensions and helpers for .NET
+
+Security extensions and helpers for .NET
